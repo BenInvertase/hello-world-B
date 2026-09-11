@@ -1,0 +1,22 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Hello World B",
+  "description": "Hello World B documentation",
+  "sidebar": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        {
+          "title": "Getting to know docs.page",
+          "href": "/",
+          "icon": "rocket"
+        },
+        {
+          "title": "Next Steps",
+          "href": "/next-steps",
+          "icon": "arrow-right"
+        }
+      ]
+    }
+  ]
+}
